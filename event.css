@@ -18,12 +18,10 @@ ul.photo_a li {
 }
 
 ul.photo_a li img {
-	width: 156px;
-	height: 104px;
+	width: 158px;
 }
 
 div#main dd.result{
-   padding:0;
    margin:0 0 0.5em 1em;
    padding:3px;
    background:#EFF3FF;
