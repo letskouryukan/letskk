@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*photo_area -----------------------*/
+.photo_area {
+	padding-left:10px;
+	padding-bottom:20px;
+}
+
+ul.photo_a  {
+	display:inline;
+}
+
+ul.photo_a li {
+	float:left;
+	padding-right:5px;
+	padding-bottom:3px;
+	list-style-type: none;
+}
+
+ul.photo_a li img {
+	width: 156px;
+	height: 104px;
+}
+
+div#main dd.result{
+   padding:0;
+   margin:0 0 0.5em 1em;
+   padding:3px;
+   background:#EFF3FF;
+}
