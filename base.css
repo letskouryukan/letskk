@@ -201,11 +201,11 @@ div#menu li a:hover{
 
 /* ========INFO CUSTOMIZE======== */
 div#info h2 {
-   background:#5ca1d1;
+   background:#75b880;
    font-size:100%;
    color:#fff;
    padding:2px 5px 0px 5px;
-   border-bottom:3px solid #036eb8;
+   border-bottom:3px solid #2a913a;
 }
 
 div#info dl dt {
@@ -252,7 +252,7 @@ div#main h2 {
    font-size:100%;
    color:#333;
    line-height:1.2;
-   border-bottom:3px solid #036eb8;
+   border-bottom:3px solid #2a913a;
 }
 
 div#main h3 {
@@ -413,7 +413,7 @@ div#footer address {
 }
 .member dl {
 	padding-top:4px;
-	border-top:solid 1px #036eb8;
+	border-top:solid 1px #2a913a;
 	
 }
 .member dt{
