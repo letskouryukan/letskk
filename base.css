@@ -201,11 +201,11 @@ div#menu li a:hover{
 
 /* ========INFO CUSTOMIZE======== */
 div#info h2 {
-   background:#99CC00;
+   background:#73b46c ;
    font-size:100%;
    color:#fff;
    padding:2px 5px 0px 5px;
-   border-bottom:3px solid #003300;
+   border-bottom:3px solid #316e41;
 }
 
 div#info dl dt {
